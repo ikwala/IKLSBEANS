@@ -1,0 +1,37 @@
+Fri Mar 23 22:58:56 GST 2018 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Mar 23 22:58:57 GST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0162-543a-687b-000042ba3fe6 
+on database directory /Users/ikwala/Dropbox/MyNetBeansProjects/AD Force/ad with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=/Applications/NetBeans/glassfish-4.1.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.3
+derby.system.home=/Users/ikwala/Dropbox/MyNetBeansProjects/AD Force
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 23 22:58:57 GST 2018:
+Shutting down instance a816c00e-0162-543a-687b-000042ba3fe6 on database directory /Users/ikwala/Dropbox/MyNetBeansProjects/AD Force/ad with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Fri Mar 23 22:58:57 GST 2018 Thread[DRDAConnThread_3,5,main] (DATABASE = ad), (DRDAID = {2}), Database 'ad' shutdown.
+----------------------------------------------------------------
+Fri Mar 23 22:59:18 GST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance 560740aa-0162-543a-687b-000042ba3fe6 
+on database directory /Users/ikwala/Dropbox/MyNetBeansProjects/AD Force/ad with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=/Applications/NetBeans/glassfish-4.1.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.3
+derby.system.home=/Users/ikwala/Dropbox/MyNetBeansProjects/AD Force
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 27 00:00:09 GST 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Mar 27 00:00:09 GST 2018:
+Shutting down instance 560740aa-0162-543a-687b-000042ba3fe6 on database directory /Users/ikwala/Dropbox/MyNetBeansProjects/AD Force/ad with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
